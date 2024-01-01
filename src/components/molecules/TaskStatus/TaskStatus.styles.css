@@ -1,0 +1,13 @@
+.status-container{
+    font-size: 12px;
+    padding: 6px;
+    border-radius: 7px;
+}
+
+.status-container.completed{
+    background: lightblue;
+}
+
+.status-container.pending{
+    background: lightgoldenrodyellow;
+}
